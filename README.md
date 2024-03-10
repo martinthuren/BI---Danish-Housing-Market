@@ -25,6 +25,3 @@ The importance of this research goal is underscored by the personal interests of
 ## Expected Solution:
 
 The project aims to provide a nuanced understanding of the Danish housing market, offering actionable insights for potential property buyers. The anticipated solution involves the development of predictive models, the identification of key indicators, and making well-informed decisions regarding property investments.
-
-
-![image](https://github.com/martinthuren/BI---Danish-Housing-Market/assets/113043583/c29a4895-32e1-413c-ab6d-d2f5b6dc2104)
