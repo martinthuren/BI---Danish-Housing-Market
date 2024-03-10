@@ -6,13 +6,13 @@ Our project focuses on the Danish housing market, specifically ejerlejligheder a
 The primary challenge pertains to the need for a comprehensive understanding of the factors influencing the housing market dynamics, with a specific focus on identifying optimal investment opportunities. 
 The importance of this research goal is underscored by the personal interests of Philip and Martin, both seeking to make informed decisions about property acquisition.
 
-## Key Components:
+## Major Key Components:
 
-1. Context: Danish housing market analysis, with emphasis on ejerlejligheder and rækkehuse/parcelhuse from 2004 to 2024.
+1. Context of the project: Danish housing market analysis, with emphasis on ejerlejligheder and rækkehuse/parcelhuse from 2004 to 2024.
 
-2. Purpose: To unravel the intricacies of the housing market, discern patterns, and provide valuable insights for potential property investors.
+2. Purpose of the project: To unravel the intricacies of the housing market, discern patterns, and provide valuable insights for potential property investors.
 
-3. Research Questions:
+3. Research Questions for the project:
    - What are the key drivers influencing fluctuations in the Danish housing market?
    - How do various factors contribute to the rise and fall of housing prices over the specified 20-year period?
    - Are there discernible patterns or trends that can assist in predicting future market movements?
