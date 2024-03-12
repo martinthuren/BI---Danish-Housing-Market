@@ -21,7 +21,7 @@ The importance of this research goal is also strongly motivated by the personal 
 
 3. Research Questions for the project:
    - What are the key drivers influencing fluctuations in the Danish housing market?
-   - How do various factors contribute to the rise and fall of housing prices over the specified 28-year period?
+   - How do various factors contribute to the rise and fall of housing prices over the specified 32-year period?
    - Are there discernible patterns or trends that can assist in predicting future market movements?
 
 4. Hypotheses:
