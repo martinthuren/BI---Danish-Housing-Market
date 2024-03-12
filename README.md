@@ -2,7 +2,7 @@
 
 ## Problem Formulation:
 
-Our project focuses on the Danish housing market, specifically ejerlejligheder and rækkehuse/parcelhuse spanning from 2004 to 2024, we aim to address key challenges and uncertainties surrounding property investments. 
+Our project focuses on the Danish housing market, specifically ejerlejligheder and rækkehuse/parcelhuse spanning from 1992 to 2024, we aim to address key challenges and uncertainties surrounding property investments. 
 The primary challenge pertains to the need for a comprehensive understanding of the factors influencing the housing market dynamics, with a specific focus on identifying optimal investment opportunities. 
 The importance of this research goal is underscored by the personal interests of Philip and Martin, both seeking to make informed decisions about property acquisition.
 
