@@ -1,6 +1,9 @@
 # BI---Danish-Housing-Market
 
-![christinecyoo-5889-480x480](https://github.com/martinthuren/BI---Danish-Housing-Market/assets/113043583/6a58b771-2e5f-40a8-9bfd-33ae6bdd9f41)
+<p align="center">
+  <img width="460" height="300" src="![christinecyoo-5889-480x480](https://github.com/martinthuren/BI---Danish-Housing-Market/assets/113043583/6a58b771-2e5f-40a8-9bfd-33ae6bdd9f41)">
+</p>
+
 
 ## Problem Formulation:
 
