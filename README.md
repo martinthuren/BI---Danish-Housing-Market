@@ -11,7 +11,7 @@ Our project focuses on the Danish housing market, specifically ejerlejligheder a
 
 The primary challenge is the need for a comprehensive understanding of the factors influencing the housing market dynamics, with a specific focus on identifying optimal investment opportunities. 
 
-The importance of this research goal is also strongly motivated by the personal interests of Philip and i Martin, both seeking to make informed decisions about property acquisition in the future.
+The importance of this research goal is also strongly motivated by the personal interests of Philip and Martin, both seeking to make informed decisions about property acquisition in the future.
 
 ## Major Key Components:
 
