@@ -1,7 +1,8 @@
-# BI---Danish-Housing-Market
+# Business Intelligence Exam - Danish Housing Market
+
 
 <p align="center" width="100%">
-    <img width="200px" height="200px" src="Nyhavn_55_(Copenhagen)_02.jpg">
+    <img width="350px" height="300px" src="Nyhavn_55_(Copenhagen)_02.jpg">
 </p>
 
 ## Problem Formulation:
