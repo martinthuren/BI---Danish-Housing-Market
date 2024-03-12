@@ -1,6 +1,6 @@
 # BI---Danish-Housing-Market
 
-![oliver-high-rise](https://github.com/martinthuren/BI---Danish-Housing-Market/assets/113043583/36626c56-5a4e-4062-9485-82d1866ac2ca)
+![christinecyoo-5889-480x480](https://github.com/martinthuren/BI---Danish-Housing-Market/assets/113043583/6a58b771-2e5f-40a8-9bfd-33ae6bdd9f41)
 
 ## Problem Formulation:
 
