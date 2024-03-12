@@ -1,9 +1,6 @@
 # BI---Danish-Housing-Market
 
-<p align="center">
-  <img src=![Nyhavn_55_(Copenhagen)_02](https://github.com/martinthuren/BI---Danish-Housing-Market/assets/113043583/05ba4f3e-e27e-4371-96b6-74682f0d5915)/>
-</p>
-
+![Nyhavn_55_(Copenhagen)_02](https://github.com/martinthuren/BI---Danish-Housing-Market/assets/113043583/9a3628a3-8f9b-4b05-a8db-a601bc1755fd)
 
 ## Problem Formulation:
 
