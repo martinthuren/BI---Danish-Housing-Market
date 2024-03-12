@@ -1,7 +1,7 @@
 # BI---Danish-Housing-Market
 
 <p align="center" width="100%">
-    <img width="200px" height="200px" src=![Nyhavn_55_(Copenhagen)_02](https://github.com/martinthuren/BI---Danish-Housing-Market/assets/113043583/9a3628a3-8f9b-4b05-a8db-a601bc1755fd)>
+    <img width="200px" height="200px" src="Nyhavn_55_(Copenhagen)_02.jpg">
 </p>
 
 ## Problem Formulation:
