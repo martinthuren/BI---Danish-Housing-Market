@@ -1,7 +1,7 @@
 # BI---Danish-Housing-Market
 
 <p align="center">
-  <img src="![Nyhavn_55_(Copenhagen)_02](https://github.com/martinthuren/BI---Danish-Housing-Market/assets/113043583/05ba4f3e-e27e-4371-96b6-74682f0d5915)"/>
+  <img src=![Nyhavn_55_(Copenhagen)_02](https://github.com/martinthuren/BI---Danish-Housing-Market/assets/113043583/05ba4f3e-e27e-4371-96b6-74682f0d5915)/>
 </p>
 
 
