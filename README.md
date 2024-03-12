@@ -1,5 +1,7 @@
 # BI---Danish-Housing-Market
 
+![oliver-high-rise](https://github.com/martinthuren/BI---Danish-Housing-Market/assets/113043583/36626c56-5a4e-4062-9485-82d1866ac2ca)
+
 ## Problem Formulation:
 
 Our project focuses on the Danish housing market, specifically ejerlejligheder and rækkehuse/parcelhuse spanning from 1992 to 2024, we aim to address key challenges and uncertainties surrounding property investments. 
