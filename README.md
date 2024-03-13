@@ -25,7 +25,7 @@ The importance of this research goal is also strongly motivated by the personal 
    - Are there discernible patterns or trends that can assist in predicting future market movements?
 
 4. Hypotheses:
-   - Certain economic indicators, demographic shifts, and policy changes significantly impact the housing market.
+   - Certain economic indicators and policy changes significantly impact the housing market.
    - Identifiable patterns exist in the market that can aid in predicting favorable times for property investment.
    - Understanding the interplay of factors will empower investors to make strategic decisions, maximizing returns on property investments.
 
